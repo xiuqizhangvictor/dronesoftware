@@ -1,0 +1,31 @@
+FC+ESC
+AERO SELFIE H743 Flight Controller:
+	ESC included, Dual IMU, Compass, Barometer included
+	7 UART ports
+	Compatible with Betaflight and Ardupilot
+
+Camera
+CADDXFPV Ratel Pro Analog Camera 
+	1/1.8'' Inch Sensor 1500TVL 
+	FOV 125°
+
+VFX Transmission
+HGLRC Zeus 1.2G 800mW VTX
+	PIT/25/100/200/400/800mW M2 M3
+	Uses Betaflight/Ardupilot
+
+Telemetry
+Micoair 2.4G Long-Range LoRa Telemetry
+	Uses Ardupilot with MAVLink or Simple UART
+
+GPS
+M10S 10Hz GPS Drone Module with Compass
+	Compatible with Ardupilot and Betaflight, uses UART
+
+SBUS Reciever
+Radiolink R6DSM 2.4GHz RC Receiver 6/10 Channels SBUS/PWM/PPM
+	SBUS2 Compatible with Ardupilot UART
+
+ELRS Reciever
+ELRS 2.4GHz Receiver with 40mm T Antenna
+	ELRS is compatable with Ardupilot through UART
